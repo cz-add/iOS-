@@ -112,7 +112,7 @@ void fxNSlog(NSString *format, ...) {
     *   参数一是`rebinding`数组
     *   参数二是`rebinding`数组的长度
 
-作为一个开发者，有一个学习的氛围跟一个交流圈子特别重要，这有个iOS交流群：[642363427](https://links.jianshu.com/go?to=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Flinks.jianshu.com%2Fgo%253Fto%253Dhttps%25253A%25252F%25252Flink.zhihu.com%25252F%25253Ftarget%25253Dhttps%2525253A%25252F%25252Flinks.jianshu.com%25252Fgo%2525253Fto%2525253Dhttps%252525253A%252525252F%252525252Fjq.qq.com%252525252F%252525253F_wv%252525253D1027%2525252526k%252525253DbESXgU0E)，不管你是小白还是大牛欢迎入驻 ，分享BAT,阿里面试题、面试经验，讨论技术，iOS开发者一起交流学习成长！
+作为一个开发者，有一个学习的氛围跟一个交流圈子特别重要，这有个iOS交流群：[642363427](https://jq.qq.com/?_wv=1027&k=J59R05Bq)，不管你是小白还是大牛欢迎入驻 ，分享BAT,阿里面试题、面试经验，讨论技术，iOS开发者一起交流学习成长！
 
 #### 2.fishhook的局限性
 
@@ -216,6 +216,6 @@ void fxNSlog(NSString *format, ...) {
 
 ## 写在后面
 
-在安全攻防领域中，hook原理起到至关重要的作用，而使用fishhook做防护虽然意义不大，但是了解fishhook原理对后续的学习还是挺有帮助的，想了解更多逆向相关知识不妨动动小手，添加一下咱们的交流群[642363427](https://links.jianshu.com/go?to=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Fjq.qq.com%2F%253F_wv%253D1027%2526k%253DDdPShmie)来为你的技术多添一份光彩。
+在安全攻防领域中，hook原理起到至关重要的作用，而使用fishhook做防护虽然意义不大，但是了解fishhook原理对后续的学习还是挺有帮助的，想了解更多逆向相关知识不妨动动小手，添加一下咱们的交流群[642363427](https://jq.qq.com/?_wv=1027&k=J59R05Bq)来为你的技术多添一份光彩。
 
 
